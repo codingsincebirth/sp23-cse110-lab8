@@ -14,3 +14,6 @@ Yes unit tests would be appropriate to test the "message" feature of a messaging
 
 Yes. A unit test can work here because it allows us to test individual parts in isolation. So we can consider "max message length" feature as an individual component and run a unit test on it. 
 
+
+##Screenshot of Test Suite##
+![Screenshot of Test Suite Passing all Checks](https://res.cloudinary.com/dounttx9k/image/upload/v1685339210/CSE%20110/Screenshot_2023-05-28_at_10.46.13_PM_bdtqka.png)
